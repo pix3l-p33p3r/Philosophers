@@ -30,7 +30,7 @@ The bonus consists of using [processes](https://stackoverflow.com/questions/2004
 ---
 
 <p>
-<img src=https://github.com/Pix31P33p3r/Philosophers/blob/main/philosophersm.png align="right" width="200px"/>
+<img src=https://github.com/Pix31P33p3r/Philosophers/blob/main/dining_philosophers_problem.png align="right" width="200px"/>
 The problem was proposed by <a href="https://pt.wikipedia.org/wiki/Edsger_Dijkstra">Edsger W. Dijkstra</a> in 1965 and is considered one of the classic problems about operating systems.
 The problem consists of five philosophers sitting around a circular dinner table, where each philosopher has a plate for eating spaghetti and a fork to his right. To eat they need 2 forks but there is only one fork between each pair of plates. A philosopher has three actions: eating, thinking, or sleeping. When a philosopher gets hungry he will try to take the fork to his right and to his left, one at a time. If he manages to get both forks, he will eat the food at a certain time and will put the forks on the table, going to sleep and then going to think again.
 </p>
